@@ -7,6 +7,7 @@ Working on Python The Hard Way tutorial
 - [ ] Chapter 5
 - [ ] Chapter 6
 - [ ] Chapter 7
+- [ ] Chapter 13
 - [ ] Chapter 18
 - [ ] Chapter 19
 - [ ] Chapter 20

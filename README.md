@@ -4,9 +4,9 @@ Working on Python The Hard Way tutorial
 - [x] Chapter 2
 - [x] Chapter 3
 - [x] Chapter 4
-- [ ] Chapter 5
-- [ ] Chapter 6
-- [ ] Chapter 7
+- [x] Chapter 5
+- [x] Chapter 6
+- [x] Chapter 7
 - [ ] Chapter 13
 - [ ] Chapter 18
 - [ ] Chapter 19

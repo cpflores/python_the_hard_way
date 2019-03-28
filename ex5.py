@@ -1,6 +1,7 @@
 my_name = 'Scott Summers'
 my_age = 25
 my_height = 74 # inches
+my_height_ft = my_height / 12 # in feet
 my_weight = 180 # lbs
 my_eyes = 'Red'
 my_teeth = 'White'
@@ -8,6 +9,8 @@ my_hair = 'Brown'
 
 print(f"Let's talk about {my_name}.")
 print(f"He's {my_height} inches tall.")
+print(f"He's {my_height_ft} feet tall in case you want to know.")
+
 print(f"He's {my_weight} pounds heavy.")
 print(f"Actually that's not too heavy.")
 print(f"He's got {my_eyes} eyes and {my_hair} hair.")

@@ -9,7 +9,7 @@ Working on Python The Hard Way tutorial
 - [x] Chapter 7
 - [x] Chapter 13
 - [x] Chapter 18
-- [ ] Chapter 19
+- [x] Chapter 19
 - [ ] Chapter 20
 - [ ] Chapter 21
 - [ ] Chapter 27

@@ -11,7 +11,7 @@ Working on Python The Hard Way tutorial
 - [x] Chapter 18
 - [x] Chapter 19
 - [x] Chapter 20
-- [ ] Chapter 21
+- [x] Chapter 21
 - [ ] Chapter 27
 - [ ] Chapter 28
 - [ ] Chapter 29

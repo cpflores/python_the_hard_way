@@ -1,3 +1,5 @@
+# Metis Introduction to Data Science prerequisites
+
 Working on Python The Hard Way tutorial
 
 - [x] Chapter 1
@@ -23,3 +25,16 @@ Working on Python The Hard Way tutorial
 - [ ] Chapter 35
 - [ ] Chapter 38
 - [ ] Chapter 39
+
+Linear Algebra review in [Andrew Ng’s Machine Learning course](https://www.coursera.org/learn/machine-learning/) (labeled as: III. Linear Algebra Review)
+
+- [ ] Chapter 1
+- [ ] Chapter 2
+- [ ] Chapter 3
+- [ ] Chapter 4
+- [ ] Chapter 5
+- [ ] Chapter 6
+
+The exercises [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php?stat_books=os)
+- [ ] Chapter 2
+- [ ] Chapter 3
